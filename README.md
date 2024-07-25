@@ -1,4 +1,4 @@
-# Investment_Analysis
+# Investment_Analysis - Profit & Loss Report
 Technical Skills:
 Data Analysis Techniques: Utilized ETL (Extract, Transform, Load) methodology for processing data efficiently.
 Power Query: Demonstrated proficiency in generating a date table and deriving fiscal months and quarters.
